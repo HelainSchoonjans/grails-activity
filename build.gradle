@@ -72,6 +72,8 @@ dependencies {
     testCompile "org.seleniumhq.selenium:selenium-support:3.14.0"
     testRuntime "org.seleniumhq.selenium:selenium-chrome-driver:3.14.0"
     testRuntime "org.seleniumhq.selenium:selenium-firefox-driver:3.14.0"
+// not working yet; command line is too long on windows
+//    compile 'org.activiti:activiti-spring-boot-starter:7.1.0.M6'
 }
 
 bootRun {
