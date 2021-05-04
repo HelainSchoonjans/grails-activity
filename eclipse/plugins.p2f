@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?p2f version='1.0.0'?>
+<p2f version='1.0.0'>
+  <ius size='1'>
+    <iu id='org.activiti.designer.feature.feature.group' name='Activiti Eclipse BPMN 2.0 Designer' version='5.18.0.201508100929'>
+      <repositories size='1'>
+        <repository location='http://www.activiti.org/designer/update/'/>
+      </repositories>
+    </iu>
+  </ius>
+</p2f>
